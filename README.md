@@ -2,4 +2,4 @@
 Local Library
 
 URL: [Local Library](https://guarded-retreat-607309.herokuapp.com)
-Shortened-URL : [tinyURL](tiny0.cc/V4mr7v)
+Shortened-URL : [tinyURL](https://tiny0.cc/V4mr7v)
